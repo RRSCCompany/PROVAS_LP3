@@ -1,2 +1,2 @@
 # PROVAS
-Somente arquivos conferidos e funcionais!
+Somente arquivos conferidos e funcionais.
