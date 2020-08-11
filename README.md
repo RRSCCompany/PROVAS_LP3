@@ -1,2 +1,2 @@
 # PROVAS
-Somente arquivos conferidos e funcionais. obviamente conferidos e checados pelo melhor programado da dupla, Rodolfo. Ass: Renan
+Somente arquivos conferidos e funcionais. Obviamente conferidos e checados pelo melhor programador da dupla, Rodolfo. Ass: Renan
